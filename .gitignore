@@ -14,5 +14,10 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+
 .idea
 .vscode
+node_modules
+package-lock.json
+package.json
+artifacts

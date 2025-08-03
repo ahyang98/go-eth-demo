@@ -1,0 +1,5 @@
+package token
+
+func Event() {
+
+}
